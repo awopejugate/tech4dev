@@ -1,0 +1,82 @@
+*{
+    background-color: rgba(255,125,0,0.2);
+}
+
+#box1{
+    border-style: solid;
+    width: 90px;
+    height: 90px;
+}
+#box2{
+    border-style: dotted;
+    width: 90%;
+    height: 90%;
+}
+#box3{
+    border-style: dashed;
+    width: 90%;
+    height: 90%;
+}
+#bd1{
+    border-style: dotted;
+    border-color: #0900aa;
+    height : 70%;
+    width : 70%;
+    padding : 15px 170px 15px 170px;
+    margin : 10px 15px 10px 15px;
+}
+#bd2{
+    border-style: dotted;
+    border-color: aqua;
+    height : 70%;
+    width: 70%;
+    padding-left: 170px;
+    padding-right: 170px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin : 10px 20px 10px 20px;
+
+}
+h2 {
+    color: rgb(220,000,111);
+}
+#boder {
+    border-style: dotted dashed solid ridge;
+    border-width: medium;}
+#border {
+    border-style: dotted;
+    border-width: medium;}
+legend {
+ color :rgb(000,111,255);}
+#fullname {
+    color: #66aa77;}
+
+#email {
+    color: #6600aa;}
+#gender {
+    color: rgb(0,255,0);}
+#date {
+    color: rgba(255,255,0,0.7);}
+#cdate {
+    color: #00ffff;}
+#password {
+    color: #0000aa;}
+#country {
+    color: rgb(0,255,0);}
+#bio {
+    color: rgba(255,255,0,0.7);}
+#file {
+    color: #00ffff;}
+#disability {
+    color: rgb(0,255,0);}
+#rpassword {
+    color: rgba(255,255,0,0.7);}
+#dtime {
+    color: #00ffff;}
+#rbutton {
+    style.color: #000000;
+    background-color: #ff00ff;}
+#sbutton{
+    background-color: rgba(0,220,121,0.9);
+    color: #0900aa;}
+

@@ -1,0 +1,20 @@
+#form1 {
+    margin: auto;
+    max-width: 600px;
+    padding: 11px;
+}
+
+#txt{
+border-left: 3px solid blue;
+
+}
+
+#eml {
+    border-left: 3px solid blue;
+    
+}
+
+#pas {
+    border-left: 3px solid blue;
+    
+}

@@ -1,0 +1,18 @@
+/*#p{
+
+}*/
+
+#width{
+width: 300px;
+margin: auto;
+padding: 2 400 20 200;
+border-style: solid;
+border-color: maroon;
+}
+
+#maxwi {
+    maxwidth: 300px;
+    margin: auto;
+    border-style: dashed;
+    border-color: gray
+}
